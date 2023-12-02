@@ -1,0 +1,20 @@
+{
+  "name": "youcanmakejokes",
+  "version": "1.0.0",
+  "description": "node index.js searchTerm term(like friend or data or etc.)\r node index.js leaderBoard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0AvinashMohanDev1/youcanmakejokes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0AvinashMohanDev1/youcanmakejokes/issues"
+  },
+  "homepage": "https://github.com/0AvinashMohanDev1/youcanmakejokes#readme",
+  "keywords": []
+}
