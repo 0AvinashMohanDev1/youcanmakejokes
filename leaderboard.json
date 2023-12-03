@@ -30,5 +30,21 @@
   "My friend said to me: \"What rhymes with orange\" I said: \"no it doesn't\"": {
     "likes": 1,
     "dislikes": 0
+  },
+  "\"I'm sorry.\" \"Hi sorry, I'm dad\"": {
+    "likes": 1,
+    "dislikes": 0
+  },
+  "\"Dad, I'm cold.\"\r\n\"Go stand in the corner, I hear it's 90 degrees.\"": {
+    "likes": 0,
+    "dislikes": 1
+  },
+  "Whenever the cashier at the grocery store asks my dad if he would like the milk in a bag he replies, ‘No, just leave it in the carton!’": {
+    "likes": 1,
+    "dislikes": 0
+  },
+  "Last night me and my girlfriend watched three DVDs back to back. Luckily I was the one facing the TV.": {
+    "likes": 0,
+    "dislikes": 1
   }
 }
